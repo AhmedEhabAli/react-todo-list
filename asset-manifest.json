@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-todo-list/static/css/main.0d26f7cf.css",
+    "main.js": "/react-todo-list/static/js/main.65185482.js",
+    "static/js/453.81f383cb.chunk.js": "/react-todo-list/static/js/453.81f383cb.chunk.js",
+    "static/media/Roboto-Black.ttf": "/react-todo-list/static/media/Roboto-Black.b1cacdcefbeb5ff74e75.ttf",
+    "static/media/Roboto-Light.ttf": "/react-todo-list/static/media/Roboto-Light.8f977c8591803dd0978f.ttf",
+    "index.html": "/react-todo-list/index.html",
+    "main.0d26f7cf.css.map": "/react-todo-list/static/css/main.0d26f7cf.css.map",
+    "main.65185482.js.map": "/react-todo-list/static/js/main.65185482.js.map",
+    "453.81f383cb.chunk.js.map": "/react-todo-list/static/js/453.81f383cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d26f7cf.css",
+    "static/js/main.65185482.js"
+  ]
+}
