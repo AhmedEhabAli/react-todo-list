@@ -1,1 +1,2 @@
-Open https://AhmedEhabAli.github.io/react-todo-list to view it in your browser.
+To browse the application, visit the following link:
+https://ahmedehabali.github.io/react-todo-list/
